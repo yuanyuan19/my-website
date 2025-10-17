@@ -1,3 +1,4 @@
 {
-  "buildCommand": "node generate-list.js"
+  "buildCommand": "node generate-list.js",
+  "outputDirectory": "."
 }
